@@ -1,6 +1,6 @@
 # Basic Administration Software in PHP PDO with Prepared Statements
 
-This is a simple administration software write in PHP 7 PDO with prepared statements to get data from database, javascript, including ajax calls, basic CSS and heavy Bootstrap.
+This is a simple administration software written in PHP 7 PDO with prepared statements to get data from database, a bit of javascript, with jQuery, including AJAX calls, basic CSS and heavy Bootstrap. Also I make use of `PHPmailer` for send emails in PHP and `pdf master` for pdf templates.
 
 ## Functionalities:
 
